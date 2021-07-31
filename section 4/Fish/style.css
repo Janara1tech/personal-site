@@ -1,0 +1,21 @@
+/****************** TAG SELECTOR *********************************/
+
+img:hover {
+    background-color: gold;
+}
+
+
+/***************** CLASS SELECTOR  ********************************/
+#heading {
+    font-size: 150px;
+    color: red;
+}
+
+.fish {
+    background-color: seagreen;
+}
+
+.broccoli {
+    background-color: steelblue;
+    border-radius: 100%;
+}
